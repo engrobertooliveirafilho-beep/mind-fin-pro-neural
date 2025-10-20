@@ -1,0 +1,36 @@
+﻿@import "tailwindcss";
+
+/* habilita prefixo `dark:` com .dark no html */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Paleta/aliases pro Tailwind v4 */
+@theme {
+  --color-mfp-bg:   #0b0e14;
+  --color-mfp-elev: #0f131a;
+  --color-mfp-card: #111827; /* near slate-900 */
+  --color-mfp-muted:#94a3b8; /* slate-400 */
+  --color-mfp-accent:#60a5fa; /* blue-400 */
+  --color-mfp-good: #22c55e;  /* green-500 */
+  --color-mfp-warn: #f59e0b;  /* amber-500 */
+  --color-mfp-bad:  #ef4444;  /* red-500 */
+  --color-mfp-info: #38bdf8;  /* sky-400 */
+}
+
+/* Base do app */
+:root { color-scheme: dark; }
+html, body, #root { height: 100%; }
+body { @apply bg-mfp-bg text-slate-200 antialiased; }
+a { @apply text-mfp-accent; }
+
+/* Utilitários usados nos cards/skeleton */
+@utility card {
+  @apply bg-mfp-card/70 border border-white/5 rounded-xl shadow-lg shadow-black/30;
+}
+
+@utility tag {
+  @apply px-2 py-0.5 rounded-full text-xs font-medium border;
+}
+
+@utility skeleton {
+  @apply animate-pulse bg-white/5 rounded-md;
+}
