@@ -1,0 +1,35 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+dist/
+build/
+
+# Node
+node_modules/
+**/node_modules/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Artefatos / Logs / Reports
+**/reports/
+**/*.zip
+**/k6_results.json
+**/k6_summary.txt
+**/pytest_output.txt
+**/health_status.json
+**/metrics_output.txt
+**/ai_generate.json
+**/rank_global.json
+**/ledger_issue.json
+**/ledger_tx.json
+**/billing_real.csv
+**/log_tail_*

@@ -1,0 +1,33 @@
+from alembic import op
+import sqlalchemy as sa
+
+revision = '0001_manual'
+down_revision = None
+branch_labels = None
+depends_on = None
+
+def upgrade():
+    op.create_table(
+        'users',
+        sa.Column('id', sa.Integer, primary_key=True),
+        sa.Column('email', sa.String(255), unique=True, nullable=False),
+        sa.Column('password_hash', sa.String(255), nullable=False),
+        sa.Column('name', sa.String(255)),
+        sa.Column('bio', sa.Text()),
+        sa.Column('ai_profile', sa.JSON(), nullable=False, server_default=sa.text("'{}'")),
+        sa.Column('created_at', sa.DateTime(), server_default=sa.text("CURRENT_TIMESTAMP")),
+    )
+    op.create_table(
+        'posts',
+        sa.Column('id', sa.Integer, primary_key=True),
+        sa.Column('author_id', sa.Integer, nullable=False),
+        sa.Column('title', sa.String(255), nullable=False),
+        sa.Column('content', sa.Text(), nullable=False),
+        sa.Column('media', sa.JSON(), nullable=False, server_default=sa.text("'{}'")),
+        sa.Column('created_at', sa.DateTime(), server_default=sa.text("CURRENT_TIMESTAMP")),
+        sa.ForeignKeyConstraint(['author_id'], ['users.id'])
+    )
+
+def downgrade():
+    op.drop_table('posts')
+    op.drop_table('users')

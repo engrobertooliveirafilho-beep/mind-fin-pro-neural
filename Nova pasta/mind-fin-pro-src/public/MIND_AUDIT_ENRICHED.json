@@ -1,0 +1,907 @@
+﻿{
+    "version":  "v0.1.3",
+    "generated":  "",
+    "root":  "C:\\MIND_MVP_BUILD\\MIND_FIN_PRO",
+    "entries":  [
+                    {
+                        "id":  541,
+                        "timestamp":  "2025-10-20 15:29:08",
+                        "title":  "Evento automÃ¡tico #541",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  540,
+                        "timestamp":  "2025-10-20 15:29:02",
+                        "title":  "Evento automÃ¡tico #540",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  539,
+                        "timestamp":  "2025-10-20 15:28:56",
+                        "title":  "Evento automÃ¡tico #539",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  538,
+                        "timestamp":  "2025-10-20 15:28:50",
+                        "title":  "Evento automÃ¡tico #538",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  537,
+                        "timestamp":  "2025-10-20 15:28:44",
+                        "title":  "Evento automÃ¡tico #537",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  536,
+                        "timestamp":  "2025-10-20 15:28:38",
+                        "title":  "Evento automÃ¡tico #536",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  535,
+                        "timestamp":  "2025-10-20 15:28:32",
+                        "title":  "Evento automÃ¡tico #535",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "MÃ³dulo analytics_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  534,
+                        "timestamp":  "2025-10-20 15:28:26",
+                        "title":  "Evento automÃ¡tico #534",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  533,
+                        "timestamp":  "2025-10-20 15:28:20",
+                        "title":  "Evento automÃ¡tico #533",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  532,
+                        "timestamp":  "2025-10-20 15:28:14",
+                        "title":  "Evento automÃ¡tico #532",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  531,
+                        "timestamp":  "2025-10-20 15:28:08",
+                        "title":  "Evento automÃ¡tico #531",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "Falha crÃ­tica detectada em neuro_sync!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  530,
+                        "timestamp":  "2025-10-20 15:28:02",
+                        "title":  "Evento automÃ¡tico #530",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  529,
+                        "timestamp":  "2025-10-20 15:27:55",
+                        "title":  "Evento automÃ¡tico #529",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  528,
+                        "timestamp":  "2025-10-20 15:27:49",
+                        "title":  "Evento automÃ¡tico #528",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "LatÃªncia acima do limite em dopamine_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  527,
+                        "timestamp":  "2025-10-20 15:27:43",
+                        "title":  "Evento automÃ¡tico #527",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  526,
+                        "timestamp":  "2025-10-20 15:27:37",
+                        "title":  "Evento automÃ¡tico #526",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  525,
+                        "timestamp":  "2025-10-20 15:27:31",
+                        "title":  "Evento automÃ¡tico #525",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  524,
+                        "timestamp":  "2025-10-20 15:27:25",
+                        "title":  "Evento automÃ¡tico #524",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  523,
+                        "timestamp":  "2025-10-20 15:27:19",
+                        "title":  "Evento automÃ¡tico #523",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  522,
+                        "timestamp":  "2025-10-20 15:27:13",
+                        "title":  "Evento automÃ¡tico #522",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Nova mÃ©trica registrada em inflow.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  521,
+                        "timestamp":  "2025-10-20 15:27:07",
+                        "title":  "Evento automÃ¡tico #521",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  520,
+                        "timestamp":  "2025-10-20 15:27:01",
+                        "title":  "Evento automÃ¡tico #520",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Nova mÃ©trica registrada em audit_main.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  519,
+                        "timestamp":  "2025-10-20 15:26:55",
+                        "title":  "Evento automÃ¡tico #519",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Falha crÃ­tica detectada em inflow!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  518,
+                        "timestamp":  "2025-10-20 15:26:49",
+                        "title":  "Evento automÃ¡tico #518",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  517,
+                        "timestamp":  "2025-10-20 15:26:43",
+                        "title":  "Evento automÃ¡tico #517",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  516,
+                        "timestamp":  "2025-10-20 15:26:37",
+                        "title":  "Evento automÃ¡tico #516",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  515,
+                        "timestamp":  "2025-10-20 15:26:31",
+                        "title":  "Evento automÃ¡tico #515",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  514,
+                        "timestamp":  "2025-10-20 15:26:24",
+                        "title":  "Evento automÃ¡tico #514",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  513,
+                        "timestamp":  "2025-10-20 15:26:18",
+                        "title":  "Evento automÃ¡tico #513",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "MÃ³dulo analytics_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  512,
+                        "timestamp":  "2025-10-20 15:26:12",
+                        "title":  "Evento automÃ¡tico #512",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  511,
+                        "timestamp":  "2025-10-20 15:26:06",
+                        "title":  "Evento automÃ¡tico #511",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  510,
+                        "timestamp":  "2025-10-20 15:26:00",
+                        "title":  "Evento automÃ¡tico #510",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  509,
+                        "timestamp":  "2025-10-20 15:25:54",
+                        "title":  "Evento automÃ¡tico #509",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  508,
+                        "timestamp":  "2025-10-20 15:25:48",
+                        "title":  "Evento automÃ¡tico #508",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Nova mÃ©trica registrada em inflow.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  507,
+                        "timestamp":  "2025-10-20 15:25:42",
+                        "title":  "Evento automÃ¡tico #507",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "LatÃªncia acima do limite em dopamine_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  506,
+                        "timestamp":  "2025-10-20 15:25:36",
+                        "title":  "Evento automÃ¡tico #506",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Nova mÃ©trica registrada em audit_main.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  505,
+                        "timestamp":  "2025-10-20 15:25:30",
+                        "title":  "Evento automÃ¡tico #505",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  504,
+                        "timestamp":  "2025-10-20 15:25:24",
+                        "title":  "Evento automÃ¡tico #504",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "LatÃªncia acima do limite em analytics_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  503,
+                        "timestamp":  "2025-10-20 15:25:18",
+                        "title":  "Evento automÃ¡tico #503",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  502,
+                        "timestamp":  "2025-10-20 15:25:12",
+                        "title":  "Evento automÃ¡tico #502",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "MÃ³dulo neuro_sync validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  501,
+                        "timestamp":  "2025-10-20 15:25:06",
+                        "title":  "Evento automÃ¡tico #501",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "LatÃªncia acima do limite em inflow.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  500,
+                        "timestamp":  "2025-10-20 15:25:00",
+                        "title":  "Evento automÃ¡tico #500",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  499,
+                        "timestamp":  "2025-10-20 15:24:54",
+                        "title":  "Evento automÃ¡tico #499",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  498,
+                        "timestamp":  "2025-10-20 15:24:48",
+                        "title":  "Evento automÃ¡tico #498",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  497,
+                        "timestamp":  "2025-10-20 15:24:42",
+                        "title":  "Evento automÃ¡tico #497",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  496,
+                        "timestamp":  "2025-10-20 15:24:36",
+                        "title":  "Evento automÃ¡tico #496",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "LatÃªncia acima do limite em inflow.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  495,
+                        "timestamp":  "2025-10-20 15:24:30",
+                        "title":  "Evento automÃ¡tico #495",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  494,
+                        "timestamp":  "2025-10-20 15:24:24",
+                        "title":  "Evento automÃ¡tico #494",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  493,
+                        "timestamp":  "2025-10-20 15:24:18",
+                        "title":  "Evento automÃ¡tico #493",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "Falha crÃ­tica detectada em neuro_sync!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  492,
+                        "timestamp":  "2025-10-20 15:24:12",
+                        "title":  "Evento automÃ¡tico #492",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  491,
+                        "timestamp":  "2025-10-20 15:24:06",
+                        "title":  "Evento automÃ¡tico #491",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "MÃ³dulo analytics_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  490,
+                        "timestamp":  "2025-10-20 15:24:00",
+                        "title":  "Evento automÃ¡tico #490",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "MÃ³dulo dopamine_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  489,
+                        "timestamp":  "2025-10-20 15:23:53",
+                        "title":  "Evento automÃ¡tico #489",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  488,
+                        "timestamp":  "2025-10-20 15:23:47",
+                        "title":  "Evento automÃ¡tico #488",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "LatÃªncia acima do limite em dopamine_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  487,
+                        "timestamp":  "2025-10-20 15:23:41",
+                        "title":  "Evento automÃ¡tico #487",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  486,
+                        "timestamp":  "2025-10-20 15:23:35",
+                        "title":  "Evento automÃ¡tico #486",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "MÃ³dulo analytics_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  485,
+                        "timestamp":  "2025-10-20 15:23:29",
+                        "title":  "Evento automÃ¡tico #485",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  484,
+                        "timestamp":  "2025-10-20 15:23:23",
+                        "title":  "Evento automÃ¡tico #484",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  483,
+                        "timestamp":  "2025-10-20 15:23:17",
+                        "title":  "Evento automÃ¡tico #483",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  482,
+                        "timestamp":  "2025-10-20 15:23:11",
+                        "title":  "Evento automÃ¡tico #482",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "MÃ³dulo analytics_core validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  481,
+                        "timestamp":  "2025-10-20 15:23:05",
+                        "title":  "Evento automÃ¡tico #481",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  480,
+                        "timestamp":  "2025-10-20 15:22:59",
+                        "title":  "Evento automÃ¡tico #480",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  479,
+                        "timestamp":  "2025-10-20 15:22:53",
+                        "title":  "Evento automÃ¡tico #479",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "LatÃªncia acima do limite em inflow.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  478,
+                        "timestamp":  "2025-10-20 15:22:47",
+                        "title":  "Evento automÃ¡tico #478",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "Falha crÃ­tica detectada em neuro_sync!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  477,
+                        "timestamp":  "2025-10-20 15:22:41",
+                        "title":  "Evento automÃ¡tico #477",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  476,
+                        "timestamp":  "2025-10-20 15:22:35",
+                        "title":  "Evento automÃ¡tico #476",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  475,
+                        "timestamp":  "2025-10-20 15:22:29",
+                        "title":  "Evento automÃ¡tico #475",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "LatÃªncia acima do limite em analytics_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  474,
+                        "timestamp":  "2025-10-20 15:22:23",
+                        "title":  "Evento automÃ¡tico #474",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  473,
+                        "timestamp":  "2025-10-20 15:22:17",
+                        "title":  "Evento automÃ¡tico #473",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "MÃ³dulo neuro_sync validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  472,
+                        "timestamp":  "2025-10-20 15:22:11",
+                        "title":  "Evento automÃ¡tico #472",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  471,
+                        "timestamp":  "2025-10-20 15:22:05",
+                        "title":  "Evento automÃ¡tico #471",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "LatÃªncia acima do limite em dopamine_core.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  470,
+                        "timestamp":  "2025-10-20 15:21:58",
+                        "title":  "Evento automÃ¡tico #470",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  469,
+                        "timestamp":  "2025-10-20 15:21:52",
+                        "title":  "Evento automÃ¡tico #469",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "Nova mÃ©trica registrada em neuro_sync.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  468,
+                        "timestamp":  "2025-10-20 15:21:46",
+                        "title":  "Evento automÃ¡tico #468",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Nova mÃ©trica registrada em analytics_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  467,
+                        "timestamp":  "2025-10-20 15:21:40",
+                        "title":  "Evento automÃ¡tico #467",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  466,
+                        "timestamp":  "2025-10-20 15:21:34",
+                        "title":  "Evento automÃ¡tico #466",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Nova mÃ©trica registrada em analytics_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  465,
+                        "timestamp":  "2025-10-20 15:21:28",
+                        "title":  "Evento automÃ¡tico #465",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Nova mÃ©trica registrada em analytics_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  464,
+                        "timestamp":  "2025-10-20 15:21:22",
+                        "title":  "Evento automÃ¡tico #464",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Falha crÃ­tica detectada em analytics_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  463,
+                        "timestamp":  "2025-10-20 15:21:16",
+                        "title":  "Evento automÃ¡tico #463",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  462,
+                        "timestamp":  "2025-10-20 15:21:10",
+                        "title":  "Evento automÃ¡tico #462",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  461,
+                        "timestamp":  "2025-10-20 15:21:04",
+                        "title":  "Evento automÃ¡tico #461",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Falha crÃ­tica detectada em dopamine_core!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  460,
+                        "timestamp":  "2025-10-20 15:20:58",
+                        "title":  "Evento automÃ¡tico #460",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Falha crÃ­tica detectada em audit_main!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  459,
+                        "timestamp":  "2025-10-20 15:20:52",
+                        "title":  "Evento automÃ¡tico #459",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Nova mÃ©trica registrada em inflow.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  458,
+                        "timestamp":  "2025-10-20 15:20:46",
+                        "title":  "Evento automÃ¡tico #458",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Falha crÃ­tica detectada em inflow!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  457,
+                        "timestamp":  "2025-10-20 15:20:40",
+                        "title":  "Evento automÃ¡tico #457",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "MÃ³dulo neuro_sync validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  456,
+                        "timestamp":  "2025-10-20 15:20:34",
+                        "title":  "Evento automÃ¡tico #456",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Falha crÃ­tica detectada em audit_main!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  455,
+                        "timestamp":  "2025-10-20 15:20:28",
+                        "title":  "Evento automÃ¡tico #455",
+                        "file":  "dopamine_core.py",
+                        "origin":  "dopamine_core",
+                        "message":  "Nova mÃ©trica registrada em dopamine_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  454,
+                        "timestamp":  "2025-10-20 15:20:21",
+                        "title":  "Evento automÃ¡tico #454",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "LatÃªncia acima do limite em inflow.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  453,
+                        "timestamp":  "2025-10-20 15:20:15",
+                        "title":  "Evento automÃ¡tico #453",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Nova mÃ©trica registrada em audit_main.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  452,
+                        "timestamp":  "2025-10-20 15:20:09",
+                        "title":  "Evento automÃ¡tico #452",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "Falha crÃ­tica detectada em inflow!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  451,
+                        "timestamp":  "2025-10-20 15:20:03",
+                        "title":  "Evento automÃ¡tico #451",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  450,
+                        "timestamp":  "2025-10-20 15:19:57",
+                        "title":  "Evento automÃ¡tico #450",
+                        "file":  "neuro_sync.py",
+                        "origin":  "neuro_sync",
+                        "message":  "LatÃªncia acima do limite em neuro_sync.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  449,
+                        "timestamp":  "2025-10-20 15:19:51",
+                        "title":  "Evento automÃ¡tico #449",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "LatÃªncia acima do limite em audit_main.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  448,
+                        "timestamp":  "2025-10-20 15:19:45",
+                        "title":  "Evento automÃ¡tico #448",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  447,
+                        "timestamp":  "2025-10-20 15:19:39",
+                        "title":  "Evento automÃ¡tico #447",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "MÃ³dulo inflow validado com sucesso.",
+                        "status":  "OK"
+                    },
+                    {
+                        "id":  446,
+                        "timestamp":  "2025-10-20 15:19:33",
+                        "title":  "Evento automÃ¡tico #446",
+                        "file":  "inflow.py",
+                        "origin":  "inflow",
+                        "message":  "LatÃªncia acima do limite em inflow.",
+                        "status":  "WARN"
+                    },
+                    {
+                        "id":  445,
+                        "timestamp":  "2025-10-20 15:19:27",
+                        "title":  "Evento automÃ¡tico #445",
+                        "file":  "analytics_core.py",
+                        "origin":  "analytics_core",
+                        "message":  "Nova mÃ©trica registrada em analytics_core.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  444,
+                        "timestamp":  "2025-10-20 15:19:21",
+                        "title":  "Evento automÃ¡tico #444",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Falha crÃ­tica detectada em audit_main!",
+                        "status":  "ERROR"
+                    },
+                    {
+                        "id":  443,
+                        "timestamp":  "2025-10-20 15:19:15",
+                        "title":  "Evento automÃ¡tico #443",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "Nova mÃ©trica registrada em audit_main.",
+                        "status":  "INFO"
+                    },
+                    {
+                        "id":  442,
+                        "timestamp":  "2025-10-20 15:19:09",
+                        "title":  "Evento automÃ¡tico #442",
+                        "file":  "audit_main.py",
+                        "origin":  "audit_main",
+                        "message":  "MÃ³dulo audit_main validado com sucesso.",
+                        "status":  "OK"
+                    }
+                ]
+}

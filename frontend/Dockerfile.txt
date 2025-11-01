@@ -1,0 +1,9 @@
+FROM node20-alpine as build
+WORKDIR app
+COPY mind-fin-propackage.json .
+RUN npm ci
+COPY mind-fin-pro .
+RUN npm run build
+
+FROM nginxalpine
+COPY --from=build appdist usrsharenginxhtml

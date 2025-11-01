@@ -1,0 +1,5 @@
+import asyncio
+class ProfitAdapter:
+    async def generate(self, profile, context):
+        await asyncio.sleep(0.2)
+        return {"type":"finance","model":"profit","insight":"ProjeÃ§Ã£o ajustada com base no perfil."}
