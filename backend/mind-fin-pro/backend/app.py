@@ -1,4 +1,4 @@
-Ôªø# app.py ‚Äî MIND FIN PRO (vers√£o limpa, SEM OpenTelemetry)
+# app.py ó MIND FIN PRO (vers„o limpa, SEM OpenTelemetry)
 # Substitua integralmente seu app.py por este arquivo.
 
 import base64
@@ -24,7 +24,7 @@ from prometheus_client import (CONTENT_TYPE_LATEST, Counter, Histogram,
 from pydantic import BaseModel
 
 # ------------------------------------------------------------------------------
-# Logging b√°sico
+# Logging b·sico
 # ------------------------------------------------------------------------------
 logging.basicConfig(
     level=logging.INFO,
@@ -34,7 +34,7 @@ log = logging.getLogger("mind")
 
 
 # ------------------------------------------------------------------------------
-# Prometheus m√©trica b√°sica
+# Prometheus mÈtrica b·sica
 # ------------------------------------------------------------------------------
 REQS = Counter("mind_requests_total", "Total requests", ["route"])
 LAT = Histogram("mind_request_latency_seconds", "Latency in seconds", ["route"])
@@ -77,7 +77,7 @@ app.add_middleware(
 
 
 # ------------------------------------------------------------------------------
-# Middleware p/ m√©tricas por rota
+# Middleware p/ mÈtricas por rota
 # ------------------------------------------------------------------------------
 @app.middleware("http")
 async def prometheus_middleware(request: Request, call_next):
@@ -118,7 +118,7 @@ def debug_crypto(echo: str = "ping"):
 
 @app.post("/simulate/performance")
 def simulate(data: SimInput):
-    # c√°lculo de score simples e determin√≠stico
+    # c·lculo de score simples e determinÌstico
     score = max(
         0.0,
         min(
@@ -130,11 +130,11 @@ def simulate(data: SimInput):
     plan = {
         "score": round(score, 2),
         "actions": [
-            "Reduzir 10% de gastos vari√°veis",
-            "Quitar d√≠vidas >2% a.m. primeiro",
+            "Reduzir 10% de gastos vari·veis",
+            "Quitar dÌvidas >2% a.m. primeiro",
             "Automatizar aporte 5% da renda em reserva",
         ],
-        "narrative": "Fluxo positivo moderado. Priorize amortiza√ß√£o e crie colch√£o.",
+        "narrative": "Fluxo positivo moderado. Priorize amortizaÁ„o e crie colch„o.",
     }
 
     # log seguro com user info cifrada (DEMO)
