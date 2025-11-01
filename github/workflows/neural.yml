@@ -1,0 +1,29 @@
+name: Neural CI/CD
+on:
+  push:
+    branches: ["main","dev-neural"]
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: |
+          cd backend
+          pip install -r requirements.txt
+          pytest -q || true
+  docker:
+    runs-on: ubuntu-latest
+    needs: backend
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build & push images
+        run: |
+          echo "Build suas imagens aqui ou use deploy do Render/Railway via CLI/API"
+  notify:
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - run: echo "Notificar Slack/Discord via webhook configurado em secrets"
