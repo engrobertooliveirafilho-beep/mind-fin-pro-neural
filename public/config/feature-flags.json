@@ -1,0 +1,7 @@
+﻿{
+    "enableTelemetry":  true,
+    "enableBackups":  true,
+    "enableAuthHarden":  true,
+    "enableRateLimit":  true,
+    "enableAuditTrail":  true
+}

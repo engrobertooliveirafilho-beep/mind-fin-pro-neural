@@ -1,0 +1,14 @@
+﻿{
+    "audit":  {
+                  "sink":  "file",
+                  "path":  ".\\\\logs\\\\audit\\\\%Y%m%d.log",
+                  "fields":  [
+                                 "ts",
+                                 "event",
+                                 "userHash",
+                                 "route",
+                                 "reqId"
+                             ],
+                  "enabled":  true
+              }
+}

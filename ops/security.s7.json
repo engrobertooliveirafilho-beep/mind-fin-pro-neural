@@ -1,0 +1,23 @@
+﻿{
+    "rateLimit":  {
+                      "limit":  120,
+                      "windowSec":  60,
+                      "mode":  "enforce"
+                  },
+    "headers":  {
+                    "XContentTypeOptions":  "nosniff",
+                    "ReferrerPolicy":  "no-referrer",
+                    "XFrameOptions":  "DENY"
+                },
+    "cors":  {
+                 "origins":  [
+                                 "http://localhost:5173",
+                                 "https://app.mind.local"
+                             ],
+                 "methods":  [
+                                 "GET",
+                                 "POST",
+                                 "OPTIONS"
+                             ]
+             }
+}

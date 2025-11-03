@@ -1,0 +1,12 @@
+﻿{
+    "trace":  {
+                  "sample":  0.1,
+                  "enabled":  true
+              },
+    "metrics":  {
+                    "push":  "http://localhost:4318",
+                    "enabled":  true
+                },
+    "logLevel":  "info",
+    "json":  true
+}
